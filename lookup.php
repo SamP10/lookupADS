@@ -2,7 +2,7 @@
 session_start();
 //Setting up database access credentials
 $host='localhost';
-$user='admin';
+$user='root';
 $password='tiaspbiqe2r';
 $dbname='accounts';
 //Database Connection with exit message upon error
